@@ -1,0 +1,951 @@
+Identifier;DimensionGroupId;DimensionId;Index;Title;Description
+NL01;NL;RegioS;1;Nederland;
+LD01;LD;RegioS;2;Noord-Nederland (LD);"LD = Landsdeel
+
+Noord-Nederland: Groningen, Fryslân, Drenthe
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+LD02;LD;RegioS;3;Oost-Nederland (LD);"LD = Landsdeel
+
+Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+LD03;LD;RegioS;4;West-Nederland (LD);"LD = Landsdeel
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+LDG4;LD;RegioS;5;West-Nederland, exclusief G4 (LD);"LD = Landsdeel
+
+West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland, exclusief
+de gemeenten Amsterdam, 's-Gravenhage, Rotterdam en Utrecht (G4).
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+LD04;LD;RegioS;6;Zuid-Nederland (LD);"LD = Landsdeel
+
+Zuid-Nederland: Noord-Brabant, Limburg
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+PV20;PV;RegioS;7;Groningen (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV21;PV;RegioS;8;Fryslân (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV22;PV;RegioS;9;Drenthe (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV23;PV;RegioS;10;Overijssel (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV24;PV;RegioS;11;Flevoland (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV25;PV;RegioS;12;Gelderland (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV26;PV;RegioS;13;Utrecht (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV27;PV;RegioS;14;Noord-Holland (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV28;PV;RegioS;15;Zuid-Holland (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV29;PV;RegioS;16;Zeeland (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV30;PV;RegioS;17;Noord-Brabant (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+PV31;PV;RegioS;18;Limburg (PV);"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+GM1680;GMPV22;RegioS;19;Aa en Hunze;Ontstaan per 01-01-1998
+GM0738;GMPV30;RegioS;20;Aalburg;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1973"
+GM0358;GMPV27;RegioS;21;Aalsmeer;Begindatum voor 1830
+GM0197;GMPV25;RegioS;22;Aalten;"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+GM0305;GMPV26;RegioS;23;Abcoude;"Opgeheven per 01-01-2011
+Ontstaan per 01-05-1941"
+GM0059;GMPV21;RegioS;24;Achtkarspelen;Begindatum voor 1830
+GM0482;GMPV28;RegioS;25;Alblasserdam;Begindatum voor 1830
+GM0613;GMPV28;RegioS;26;Albrandswaard;Ontstaan per 01-01-1985
+GM0361;GMPV27;RegioS;27;Alkmaar;"Gemeentelijke herindeling per 01-01-2015
+Begindatum voor 1830"
+GM0141;GMPV23;RegioS;28;Almelo;Begindatum 01-12-1913
+GM0034;GMPV24;RegioS;29;Almere;Ontstaan per 01-01-1984
+GM0484;GMPV28;RegioS;30;Alphen aan den Rijn;"Gemeentelijke herindeling per 01-01-2014
+Naamswijziging per 01-01-1918"
+GM1723;GMPV30;RegioS;31;Alphen-Chaam;Ontstaan per 01-01-1997
+GM1959;GMPV30;RegioS;32;Altena;Ontstaan per 01-01-2019
+GM0060;GMPV21;RegioS;33;Ameland;Begindatum voor 1830
+GM0307;GMPV26;RegioS;34;Amersfoort;Begindatum voor 1830
+GM0362;GMPV27;RegioS;35;Amstelveen;Naamswijziging per 01-01-1964
+GM0363;GMPV27;RegioS;36;Amsterdam;Begindatum voor 1830
+GM0364;GMPV27;RegioS;37;Andijk;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM0366;GMPV27;RegioS;38;Anna Paulowna;"Opgeheven per 01-01-2012
+Begindatum 18-07-1870"
+GM0200;GMPV25;RegioS;39;Apeldoorn;Begindatum voor 1830
+GM0003;GMPV20;RegioS;40;Appingedam;"Opgeheven per 01-01-2021
+Begindatum voor 1830"
+GM0202;GMPV25;RegioS;41;Arnhem;Begindatum voor 1830
+GM0106;GMPV22;RegioS;42;Assen;Begindatum voor 1830
+GM0743;GMPV30;RegioS;43;Asten;Begindatum voor 1830
+GM0744;GMPV30;RegioS;44;Baarle-Nassau;Begindatum voor 1830
+GM0308;GMPV26;RegioS;45;Baarn;Begindatum voor 1830
+GM0489;GMPV28;RegioS;46;Barendrecht;Naamswijziging per 10-12-1886
+GM0203;GMPV25;RegioS;47;Barneveld;Begindatum voor 1830
+GM0005;GMPV20;RegioS;48;Bedum;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0888;GMPV31;RegioS;49;Beek (L.);Begindatum 02-01-1839
+GM1954;GMPV31;RegioS;50;Beekdaelen;Ontstaan per 01-01-2019
+GM0370;GMPV27;RegioS;51;Beemster;"Opgeheven per 01-01-2022
+Begindatum voor 1830"
+GM0889;GMPV31;RegioS;52;Beesel;Begindatum 02-01-1839
+GM0007;GMPV20;RegioS;53;Bellingwedde;"Opgeheven per 01-01-2018
+Ontstaan per 01-09-1968"
+GM1945;GMPV25;RegioS;54;Berg en Dal;Naamswijziging per 01-01-2016
+GM0491;GMPV28;RegioS;55;Bergambacht;"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+GM1724;GMPV30;RegioS;56;Bergeijk;Naamswijziging per 25-09-1998
+GM0893;GMPV31;RegioS;57;Bergen (L.);Begindatum 02-01-1839
+GM0373;GMPV27;RegioS;58;Bergen (NH.);"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM0748;GMPV30;RegioS;59;Bergen op Zoom;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM1859;GMPV25;RegioS;60;Berkelland;Ontstaan per 01-01-2005
+GM1721;GMPV30;RegioS;61;Bernheze;Naamswijziging per 28-01-1995
+GM0568;GMPV28;RegioS;62;Bernisse;"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1980"
+GM0753;GMPV30;RegioS;63;Best;Begindatum voor 1830
+GM0209;GMPV25;RegioS;64;Beuningen;Begindatum voor 1830
+GM0375;GMPV27;RegioS;65;Beverwijk;Begindatum voor 1830
+GM0063;GMPV21;RegioS;66;het Bildt;"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+GM0310;GMPV26;RegioS;67;De Bilt;"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM0585;GMPV28;RegioS;68;Binnenmaas;"Opgeheven per 01-01-2019
+Gemeentelijke herindeling per 01-01-2007
+Ontstaan per 01-01-1984"
+GM1728;GMPV30;RegioS;69;Bladel;Ontstaan per 01-01-1997
+GM0376;GMPV27;RegioS;70;Blaricum;Begindatum voor 1830
+GM0377;GMPV27;RegioS;71;Bloemendaal;"Gemeentelijke herindeling per 01-01-2009
+Begindatum voor 1830"
+GM0055;GMPV21;RegioS;72;Boarnsterhim;"Opgeheven per 01-01-2014
+Naamswijziging per 03-01-1985"
+GM0497;GMPV28;RegioS;73;Bodegraven;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM1901;GMPV28;RegioS;74;Bodegraven-Reeuwijk;Ontstaan per 01-01-2011
+GM0755;GMPV30;RegioS;75;Boekel;Begindatum voor 1830
+GM0009;GMPV20;RegioS;76;Ten Boer;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0064;GMPV21;RegioS;77;Bolsward;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM1681;GMPV22;RegioS;78;Borger-Odoorn;Ontstaan per 01-01-1998
+GM0147;GMPV23;RegioS;79;Borne;Begindatum voor 1830
+GM0654;GMPV29;RegioS;80;Borsele;Naamswijziging per 01-01-1970
+GM0499;GMPV28;RegioS;81;Boskoop;"Opgeheven per 01-01-2014
+Begindatum voor 1830"
+GM0756;GMPV30;RegioS;82;Boxmeer;"Opgeheven per 01-01-2022
+Gemeentelijke herindeling per 01-01-1998
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+GM0757;GMPV30;RegioS;83;Boxtel;"Gemeentelijke herindeling per 01-01-2021
+Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+GM0758;GMPV30;RegioS;84;Breda;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0311;GMPV26;RegioS;85;Breukelen;"Opgeheven per 01-01-2011
+Ontstaan per 01-01-1949"
+GM0501;GMPV28;RegioS;86;Brielle;Begindatum voor 1830
+GM1876;GMPV25;RegioS;87;Bronckhorst;Ontstaan per 01-01-2005
+GM0213;GMPV25;RegioS;88;Brummen;Begindatum voor 1830
+GM0899;GMPV31;RegioS;89;Brunssum;Begindatum 02-01-1839
+GM0312;GMPV26;RegioS;90;Bunnik;Begindatum voor 1830
+GM0313;GMPV26;RegioS;91;Bunschoten;Begindatum voor 1830
+GM0214;GMPV25;RegioS;92;Buren;"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+GM0381;GMPV27;RegioS;93;Bussum;"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+GM0502;GMPV28;RegioS;94;Capelle aan den IJssel;Begindatum voor 1830
+GM0383;GMPV27;RegioS;95;Castricum;"Gemeentelijke herindeling per 01-01-2002
+Begindatum voor 1830"
+GM0109;GMPV22;RegioS;96;Coevorden;"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+GM1706;GMPV30;RegioS;97;Cranendonck;Naamswijziging per 28-01-1998
+GM0611;GMPV28;RegioS;98;Cromstrijen;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+GM1684;GMPV30;RegioS;99;Cuijk;"Opgeheven per 01-01-2022
+Ontstaan per 01-01-1994"
+GM0216;GMPV25;RegioS;100;Culemborg;Begindatum voor 1830
+GM0148;GMPV23;RegioS;101;Dalfsen;"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM1891;GMPV21;RegioS;102;Dantumadiel;Naamswijziging per 01-01-2009
+GM0503;GMPV28;RegioS;103;Delft;Begindatum voor 1830
+GM0010;GMPV20;RegioS;104;Delfzijl;"Opgeheven per 01-01-2021
+Begindatum voor 1830"
+GM0762;GMPV30;RegioS;105;Deurne;Naamswijziging per 01-01-1926
+GM0150;GMPV23;RegioS;106;Deventer;"Gemeentelijke herindeling per 01-01-2005
+Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+GM0384;GMPV27;RegioS;107;Diemen;Begindatum voor 1830
+GM1774;GMPV23;RegioS;108;Dinkelland;Naamswijziging per 01-06-2002
+GM0504;GMPV28;RegioS;109;Dirksland;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM0221;GMPV25;RegioS;110;Doesburg;Begindatum voor 1830
+GM0222;GMPV25;RegioS;111;Doetinchem;"Gemeentelijke herindeling per 01-01-2005
+Begindatum 01-01-1920"
+GM0766;GMPV30;RegioS;112;Dongen;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0058;GMPV21;RegioS;113;Dongeradeel;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+GM0505;GMPV28;RegioS;114;Dordrecht;Begindatum voor 1830
+GM0498;GMPV27;RegioS;115;Drechterland;"Gemeentelijke herindeling per 01-01-2006
+Naamswijziging per 01-01-1980"
+GM1719;GMPV30;RegioS;116;Drimmelen;Naamswijziging per 25-04-1998
+GM0303;GMPV24;RegioS;117;Dronten;Ontstaan per 01-01-1972
+GM0225;GMPV25;RegioS;118;Druten;Begindatum voor 1830
+GM0226;GMPV25;RegioS;119;Duiven;Begindatum voor 1830
+GM1711;GMPV31;RegioS;120;Echt-Susteren;Ontstaan per 01-01-2003
+GM0385;GMPV27;RegioS;121;Edam-Volendam;"Gemeentelijke herindeling per 01-01-2016
+Naamswijziging per 01-01-1975"
+GM0228;GMPV25;RegioS;122;Ede;Begindatum voor 1830
+GM0317;GMPV26;RegioS;123;Eemnes;Begindatum voor 1830
+GM1651;GMPV20;RegioS;124;Eemsmond;"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1992"
+GM0770;GMPV30;RegioS;125;Eersel;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0905;GMPV31;RegioS;126;Eijsden;"Opgeheven per 01-01-2011
+Begindatum 02-01-1839"
+GM1903;GMPV31;RegioS;127;Eijsden-Margraten;Ontstaan per 01-01-2011
+GM0772;GMPV30;RegioS;128;Eindhoven;Begindatum voor 1830
+GM0230;GMPV25;RegioS;129;Elburg;Begindatum voor 1830
+GM0114;GMPV22;RegioS;130;Emmen;"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+GM0388;GMPV27;RegioS;131;Enkhuizen;Begindatum voor 1830
+GM0153;GMPV23;RegioS;132;Enschede;Begindatum voor 1830
+GM0232;GMPV25;RegioS;133;Epe;Begindatum voor 1830
+GM0233;GMPV25;RegioS;134;Ermelo;Begindatum voor 1830
+GM0777;GMPV30;RegioS;135;Etten-Leur;Naamswijziging per 01-01-1968
+GM1722;GMPV21;RegioS;136;Ferwerderadiel;"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1999"
+GM0070;GMPV21;RegioS;137;Franekeradeel;"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+GM1921;GMPV21;RegioS;138;De Friese Meren;"Naamswijziging per 01-07-2015
+Ontstaan per 01-01-2014"
+GM1940;GMPV21;RegioS;139;De Fryske Marren;Naamswijziging per 01-07-2015
+GM0653;GMPV21;RegioS;140;Gaasterlân-Sleat;"Opgeheven per 01-01-2014
+Naamswijziging per 05-06-1985"
+GM0779;GMPV30;RegioS;141;Geertruidenberg;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0236;GMPV25;RegioS;142;Geldermalsen;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM1771;GMPV30;RegioS;143;Geldrop-Mierlo;Ontstaan per 01-01-2004
+GM1652;GMPV30;RegioS;144;Gemert-Bakel;Ontstaan per 01-01-1997
+GM0907;GMPV31;RegioS;145;Gennep;Begindatum 02-01-1839
+GM0689;GMPV28;RegioS;146;Giessenlanden;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1986"
+GM0784;GMPV30;RegioS;147;Gilze en Rijen;Begindatum voor 1830
+GM0511;GMPV28;RegioS;148;Goedereede;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM1924;GMPV28;RegioS;149;Goeree-Overflakkee;Ontstaan per 01-01-2013
+GM0664;GMPV29;RegioS;150;Goes;Begindatum voor 1830
+GM0785;GMPV30;RegioS;151;Goirle;Begindatum voor 1830
+GM1942;GMPV27;RegioS;152;Gooise Meren;Ontstaan per 01-01-2016
+GM0512;GMPV28;RegioS;153;Gorinchem;Begindatum voor 1830
+GM0513;GMPV28;RegioS;154;Gouda;Begindatum voor 1830
+GM0693;GMPV28;RegioS;155;Graafstroom;"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1986"
+GM0365;GMPV27;RegioS;156;Graft-De Rijp;"Opgeheven per 01-01-2015
+Ontstaan per 01-08-1970"
+GM0786;GMPV30;RegioS;157;Grave;"Opgeheven per 01-01-2022
+Begindatum voor 1830"
+GM0518;GMPV28;RegioS;158;'s-Gravenhage (gemeente);Begindatum voor 1830
+GM0241;GMPV25;RegioS;159;Groesbeek;"Naamswijziging per 01-01-2016
+Gemeentelijke herindeling per 01-01-2015
+Begindatum voor 1830"
+GM0014;GMPV20;RegioS;160;Groningen (gemeente);"Gemeentelijke herindeling per 01-01-2019
+Begindatum voor 1830"
+GM0015;GMPV20;RegioS;161;Grootegast;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM1729;GMPV31;RegioS;162;Gulpen-Wittem;Ontstaan per 01-01-1999
+GM0158;GMPV23;RegioS;163;Haaksbergen;Begindatum voor 1830
+GM0788;GMPV30;RegioS;164;Haaren;"Opgeheven per 01-01-2021
+Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+GM0392;GMPV27;RegioS;165;Haarlem;Begindatum voor 1830
+GM0393;GMPV27;RegioS;166;Haarlemmerliede en Spaarnwoude;"Opgeheven per 01-01-2019
+Begindatum 13-06-1857"
+GM0394;GMPV27;RegioS;167;Haarlemmermeer;"Gemeentelijke herindeling per 01-01-2019
+Begindatum 16-11-1855"
+GM1655;GMPV30;RegioS;168;Halderberge;Ontstaan per 01-01-1997
+GM0160;GMPV23;RegioS;169;Hardenberg;"Gemeentelijke herindeling per 01-01-2001
+Ontstaan per 01-05-1941"
+GM0243;GMPV25;RegioS;170;Harderwijk;Begindatum voor 1830
+GM0523;GMPV28;RegioS;171;Hardinxveld-Giessendam;Ontstaan per 01-01-1957
+GM0017;GMPV20;RegioS;172;Haren;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0395;GMPV27;RegioS;173;Harenkarspel;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM0072;GMPV21;RegioS;174;Harlingen;Begindatum voor 1830
+GM0244;GMPV25;RegioS;175;Hattem;Begindatum voor 1830
+GM0396;GMPV27;RegioS;176;Heemskerk;Begindatum voor 1830
+GM0397;GMPV27;RegioS;177;Heemstede;Begindatum voor 1830
+GM0246;GMPV25;RegioS;178;Heerde;Begindatum voor 1830
+GM0074;GMPV21;RegioS;179;Heerenveen;"Gemeentelijke herindeling per 01-01-2014
+Begindatum 01-07-1934"
+GM0398;GMPV27;RegioS;180;Heerhugowaard;"Opgeheven per 01-01-2022
+Begindatum voor 1830"
+GM0917;GMPV31;RegioS;181;Heerlen;Begindatum 02-01-1839
+GM1658;GMPV30;RegioS;182;Heeze-Leende;Ontstaan per 01-01-1997
+GM0399;GMPV27;RegioS;183;Heiloo;Begindatum voor 1830
+GM0400;GMPV27;RegioS;184;Den Helder;Begindatum voor 1830
+GM0163;GMPV23;RegioS;185;Hellendoorn;Begindatum voor 1830
+GM0530;GMPV28;RegioS;186;Hellevoetsluis;Begindatum voor 1830
+GM0794;GMPV30;RegioS;187;Helmond;Begindatum voor 1830
+GM0531;GMPV28;RegioS;188;Hendrik-Ido-Ambacht;Begindatum voor 1830
+GM0164;GMPV23;RegioS;189;Hengelo (O.);Begindatum voor 1830
+GM0796;GMPV30;RegioS;190;'s-Hertogenbosch;"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+GM0252;GMPV25;RegioS;191;Heumen;Begindatum voor 1830
+GM0797;GMPV30;RegioS;192;Heusden;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0534;GMPV28;RegioS;193;Hillegom;Begindatum voor 1830
+GM0798;GMPV30;RegioS;194;Hilvarenbeek;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0402;GMPV27;RegioS;195;Hilversum;Begindatum voor 1830
+GM1963;GMPV28;RegioS;196;Hoeksche Waard;Ontstaan per 01-01-2019
+GM1735;GMPV23;RegioS;197;Hof van Twente;Ontstaan per 01-01-2001
+GM1966;GMPV20;RegioS;198;Het Hogeland;Ontstaan per 01-01-2019
+GM1911;GMPV27;RegioS;199;Hollands Kroon;Ontstaan per 01-01-2012
+GM0118;GMPV22;RegioS;200;Hoogeveen;Begindatum voor 1830
+GM0018;GMPV20;RegioS;201;Hoogezand-Sappemeer;"Opgeheven per 01-01-2018
+Ontstaan per 01-04-1949"
+GM0405;GMPV27;RegioS;202;Hoorn;Begindatum voor 1830
+GM1507;GMPV31;RegioS;203;Horst aan de Maas;"Gemeentelijke herindeling per 01-01-2010
+Ontstaan per 01-01-2001"
+GM0321;GMPV26;RegioS;204;Houten;Begindatum voor 1830
+GM0406;GMPV27;RegioS;205;Huizen;Begindatum voor 1830
+GM0677;GMPV29;RegioS;206;Hulst;"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+GM0353;GMPV26;RegioS;207;IJsselstein;Begindatum voor 1830
+GM1884;GMPV28;RegioS;208;Kaag en Braassem;Ontstaan per 01-01-2009
+GM0166;GMPV23;RegioS;209;Kampen;"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM0678;GMPV29;RegioS;210;Kapelle;Begindatum voor 1830
+GM0537;GMPV28;RegioS;211;Katwijk;"Gemeentelijke herindeling per 01-01-2006
+Begindatum voor 1830"
+GM0928;GMPV31;RegioS;212;Kerkrade;Begindatum 02-01-1839
+GM1598;GMPV27;RegioS;213;Koggenland;Ontstaan per 01-01-2007
+GM0079;GMPV21;RegioS;214;Kollumerland en Nieuwkruisland;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0588;GMPV28;RegioS;215;Korendijk;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1984"
+GM0542;GMPV28;RegioS;216;Krimpen aan den IJssel;Begindatum voor 1830
+GM1931;GMPV28;RegioS;217;Krimpenerwaard;Ontstaan per 01-01-2015
+GM1659;GMPV30;RegioS;218;Laarbeek;Ontstaan per 01-01-1997
+GM1685;GMPV30;RegioS;219;Landerd;"Opgeheven per 01-01-2022
+Ontstaan per 01-01-1994"
+GM0882;GMPV31;RegioS;220;Landgraaf;Ontstaan per 01-01-1982
+GM0415;GMPV27;RegioS;221;Landsmeer;"Gemeentelijke herindeling per 01-01-1991
+Begindatum voor 1830"
+GM0416;GMPV27;RegioS;222;Langedijk;"Opgeheven per 01-01-2022
+Ontstaan per 01-08-1941"
+GM1621;GMPV28;RegioS;223;Lansingerland;Ontstaan per 01-01-2007
+GM0417;GMPV27;RegioS;224;Laren (NH.);Begindatum voor 1830
+GM0022;GMPV20;RegioS;225;Leek;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0545;GMPV28;RegioS;226;Leerdam;"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2019
+Begindatum voor 1830"
+GM0080;GMPV21;RegioS;227;Leeuwarden;"Gemeentelijke herindeling per 01-01-2018
+Gemeentelijke herindeling per 01-01-2014
+Begindatum voor 1830"
+GM0081;GMPV21;RegioS;228;Leeuwarderadeel;"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+GM0546;GMPV28;RegioS;229;Leiden;Begindatum voor 1830
+GM0547;GMPV28;RegioS;230;Leiderdorp;Begindatum voor 1830
+GM1916;GMPV28;RegioS;231;Leidschendam-Voorburg;Ontstaan per 01-01-2002
+GM0995;GMPV24;RegioS;232;Lelystad;Ontstaan per 01-01-1980
+GM0082;GMPV21;RegioS;233;Lemsterland;"Opgeheven per 01-01-2014
+Begindatum voor 1830"
+GM1640;GMPV31;RegioS;234;Leudal;Ontstaan per 01-01-2007
+GM0327;GMPV26;RegioS;235;Leusden;Begindatum voor 1830
+GM0694;GMPV28;RegioS;236;Liesveld;"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1986"
+GM0733;GMPV25;RegioS;237;Lingewaal;"Opgeheven per 01-01-2019
+Naamswijziging per 03-01-1987"
+GM1705;GMPV25;RegioS;238;Lingewaard;Naamswijziging per 01-01-2003
+GM0553;GMPV28;RegioS;239;Lisse;Begindatum voor 1830
+GM0808;GMPV30;RegioS;240;Lith;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM0140;GMPV21;RegioS;241;Littenseradiel;"Opgeheven per 01-01-2018
+Naamswijziging per 26-01-1985"
+GM0262;GMPV25;RegioS;242;Lochem;"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+GM0329;GMPV26;RegioS;243;Loenen;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM0809;GMPV30;RegioS;244;Loon op Zand;Begindatum voor 1830
+GM0331;GMPV26;RegioS;245;Lopik;Begindatum voor 1830
+GM0024;GMPV20;RegioS;246;Loppersum;"Opgeheven per 01-01-2021
+Begindatum voor 1830"
+GM0168;GMPV23;RegioS;247;Losser;Begindatum voor 1830
+GM0333;GMPV26;RegioS;248;Maarssen;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM1671;GMPV30;RegioS;249;Maasdonk;"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1993"
+GM0263;GMPV25;RegioS;250;Maasdriel;"Gemeentelijke herindeling per 01-01-1999
+Naamswijziging per 01-08-1944"
+GM1641;GMPV31;RegioS;251;Maasgouw;Ontstaan per 01-01-2007
+GM0556;GMPV28;RegioS;252;Maassluis;Begindatum voor 1830
+GM0935;GMPV31;RegioS;253;Maastricht;Begindatum voor 1830
+GM0936;GMPV31;RegioS;254;Margraten;"Opgeheven per 01-01-2011
+Begindatum 02-01-1839"
+GM1663;GMPV20;RegioS;255;De Marne;"Opgeheven per 01-01-2019
+Naamswijziging per 01-01-1992"
+GM0025;GMPV20;RegioS;256;Marum;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0420;GMPV27;RegioS;257;Medemblik;"Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+GM0938;GMPV31;RegioS;258;Meerssen;Begindatum 02-01-1839
+GM1948;GMPV30;RegioS;259;Meierijstad;Ontstaan per 01-01-2017
+GM0083;GMPV21;RegioS;260;Menaldumadeel;"Naamswijziging per 01-01-2011
+Begindatum voor 1830"
+GM1908;GMPV21;RegioS;261;Menameradiel;"Opgeheven per 01-01-2018
+Naamswijziging per 01-01-2011"
+GM1987;GMPV20;RegioS;262;Menterwolde;"Opgeheven per 01-01-2018
+Naamswijziging per 01-02-1991"
+GM0119;GMPV22;RegioS;263;Meppel;"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+GM0687;GMPV29;RegioS;264;Middelburg (Z.);"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0559;GMPV28;RegioS;265;Middelharnis;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM1842;GMPV28;RegioS;266;Midden-Delfland;Ontstaan per 01-01-2004
+GM1731;GMPV22;RegioS;267;Midden-Drenthe;Naamswijziging per 01-01-2000
+GM1952;GMPV20;RegioS;268;Midden-Groningen;Ontstaan per 01-01-2018
+GM0815;GMPV30;RegioS;269;Mill en Sint Hubert;"Opgeheven per 01-01-2022
+Begindatum voor 1830"
+GM0265;GMPV25;RegioS;270;Millingen aan de Rijn;"Opgeheven per 01-01-2015
+Naamswijziging per 01-01-1954"
+GM1709;GMPV30;RegioS;271;Moerdijk;Naamswijziging per 04-04-1998
+GM1978;GMPV28;RegioS;272;Molenlanden;Ontstaan per 01-01-2019
+GM1927;GMPV28;RegioS;273;Molenwaard;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-2013"
+GM1955;GMPV25;RegioS;274;Montferland;Ontstaan per 01-01-2005
+GM0335;GMPV26;RegioS;275;Montfoort;Begindatum voor 1830
+GM0944;GMPV31;RegioS;276;Mook en Middelaar;Begindatum 02-01-1839
+GM0424;GMPV27;RegioS;277;Muiden;"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+GM0425;GMPV27;RegioS;278;Naarden;"Opgeheven per 01-01-2016
+Begindatum voor 1830"
+GM1740;GMPV25;RegioS;279;Neder-Betuwe;Naamswijziging per 01-04-2003
+GM0643;GMPV28;RegioS;280;Nederlek;"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1985"
+GM0946;GMPV31;RegioS;281;Nederweert;Begindatum 02-01-1839
+GM0304;GMPV25;RegioS;282;Neerijnen;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1978"
+GM0412;GMPV27;RegioS;283;Niedorp;"Opgeheven per 01-01-2012
+Ontstaan per 01-08-1970"
+GM0356;GMPV26;RegioS;284;Nieuwegein;Ontstaan per 01-07-1971
+GM0569;GMPV28;RegioS;285;Nieuwkoop;"Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+GM0571;GMPV28;RegioS;286;Nieuw-Lekkerland;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM0104;GMPV21;RegioS;287;Nijefurd;"Opgeheven per 01-01-2011
+Ontstaan per 01-01-1984"
+GM0267;GMPV25;RegioS;288;Nijkerk;"Gemeentelijke herindeling per 01-01-2000
+Begindatum voor 1830"
+GM0268;GMPV25;RegioS;289;Nijmegen;Begindatum voor 1830
+GM1930;GMPV28;RegioS;290;Nissewaard;Ontstaan per 01-01-2015
+GM1970;GMPV21;RegioS;291;Noardeast-Fryslân;Ontstaan per 01-01-2019
+GM1695;GMPV29;RegioS;292;Noord-Beveland;Ontstaan per 01-01-1995
+GM1699;GMPV22;RegioS;293;Noordenveld;Ontstaan per 01-01-1998
+GM0171;GMPV24;RegioS;294;Noordoostpolder;"Provinciale wijziging per 01-01-1986
+Naamswijziging per 01-07-1962"
+GM0575;GMPV28;RegioS;295;Noordwijk;"Gemeentelijke herindeling per 01-01-2019
+Begindatum voor 1830"
+GM0576;GMPV28;RegioS;296;Noordwijkerhout;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0820;GMPV30;RegioS;297;Nuenen, Gerwen en Nederwetten;Begindatum voor 1830
+GM0302;GMPV25;RegioS;298;Nunspeet;Ontstaan per 01-01-1972
+GM0951;GMPV31;RegioS;299;Nuth;"Opgeheven per 01-01-2019
+Begindatum 02-01-1839"
+GM0579;GMPV28;RegioS;300;Oegstgeest;Begindatum voor 1830
+GM0823;GMPV30;RegioS;301;Oirschot;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0824;GMPV30;RegioS;302;Oisterwijk;"Gemeentelijke herindeling per 01-01-2021
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM1895;GMPV20;RegioS;303;Oldambt;Ontstaan per 01-01-2010
+GM0269;GMPV25;RegioS;304;Oldebroek;Begindatum voor 1830
+GM0173;GMPV23;RegioS;305;Oldenzaal;Begindatum voor 1830
+GM1773;GMPV23;RegioS;306;Olst-Wijhe;Naamswijziging per 26-03-2002
+GM0175;GMPV23;RegioS;307;Ommen;Begindatum 01-05-1923
+GM0881;GMPV31;RegioS;308;Onderbanken;"Opgeheven per 01-01-2019
+Ontstaan per 01-01-1982"
+GM1586;GMPV25;RegioS;309;Oost Gelre;Naamswijziging per 19-05-2006
+GM0826;GMPV30;RegioS;310;Oosterhout;Begindatum voor 1830
+GM0580;GMPV28;RegioS;311;Oostflakkee;"Opgeheven per 01-01-2013
+Ontstaan per 01-01-1966"
+GM0085;GMPV21;RegioS;312;Ooststellingwerf;Begindatum voor 1830
+GM0431;GMPV27;RegioS;313;Oostzaan;Begindatum voor 1830
+GM0432;GMPV27;RegioS;314;Opmeer;Begindatum voor 1830
+GM0086;GMPV21;RegioS;315;Opsterland;Begindatum voor 1830
+GM0828;GMPV30;RegioS;316;Oss;"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2003
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+GM0584;GMPV28;RegioS;317;Oud-Beijerland;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM1509;GMPV25;RegioS;318;Oude IJsselstreek;Ontstaan per 01-01-2005
+GM0437;GMPV27;RegioS;319;Ouder-Amstel;Begindatum voor 1830
+GM0644;GMPV28;RegioS;320;Ouderkerk;"Opgeheven per 01-01-2015
+Ontstaan per 01-01-1985"
+GM0589;GMPV26;RegioS;321;Oudewater;"Provinciale wijziging per 01-09-1970
+Begindatum voor 1830"
+GM1734;GMPV25;RegioS;322;Overbetuwe;Ontstaan per 01-01-2001
+GM0590;GMPV28;RegioS;323;Papendrecht;Begindatum voor 1830
+GM1894;GMPV31;RegioS;324;Peel en Maas;Ontstaan per 01-01-2010
+GM0765;GMPV20;RegioS;325;Pekela;Ontstaan per 01-01-1990
+GM1926;GMPV28;RegioS;326;Pijnacker-Nootdorp;Ontstaan per 01-01-2002
+GM0439;GMPV27;RegioS;327;Purmerend;"Gemeentelijke herindeling per 01-01-2022
+Begindatum voor 1830"
+GM0273;GMPV25;RegioS;328;Putten;Begindatum voor 1830
+GM0177;GMPV23;RegioS;329;Raalte;"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM0595;GMPV28;RegioS;330;Reeuwijk;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM0703;GMPV29;RegioS;331;Reimerswaal;Ontstaan per 01-01-1970
+GM0274;GMPV25;RegioS;332;Renkum;Begindatum voor 1830
+GM0339;GMPV26;RegioS;333;Renswoude;Begindatum voor 1830
+GM1667;GMPV30;RegioS;334;Reusel-De Mierden;Ontstaan per 01-01-1997
+GM0275;GMPV25;RegioS;335;Rheden;Begindatum voor 1830
+GM0340;GMPV26;RegioS;336;Rhenen;Begindatum voor 1830
+GM0597;GMPV28;RegioS;337;Ridderkerk;Begindatum voor 1830
+GM0196;GMPV25;RegioS;338;Rijnwaarden;"Opgeheven per 01-01-2018
+Ontstaan per 01-01-1985"
+GM1672;GMPV28;RegioS;339;Rijnwoude;"Opgeheven per 01-01-2014
+Naamswijziging per 01-01-1993"
+GM1742;GMPV23;RegioS;340;Rijssen-Holten;Naamswijziging per 15-03-2003
+GM0603;GMPV28;RegioS;341;Rijswijk (ZH.);Begindatum voor 1830
+GM1669;GMPV31;RegioS;342;Roerdalen;"Gemeentelijke herindeling per 01-01-2007
+Naamswijziging per 01-01-1993"
+GM0957;GMPV31;RegioS;343;Roermond;"Gemeentelijke herindeling per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+GM0736;GMPV26;RegioS;344;De Ronde Venen;"Gemeentelijke herindeling per 01-01-2011
+Ontstaan per 01-01-1989"
+GM1674;GMPV30;RegioS;345;Roosendaal;Ontstaan per 01-01-1997
+GM0599;GMPV28;RegioS;346;Rotterdam;Begindatum voor 1830
+GM0600;GMPV28;RegioS;347;Rozenburg;"Opgeheven per 18-03-2010
+Begindatum voor 1830"
+GM0277;GMPV25;RegioS;348;Rozendaal;Begindatum voor 1830
+GM0840;GMPV30;RegioS;349;Rucphen;Begindatum voor 1830
+GM0441;GMPV27;RegioS;350;Schagen;"Gemeentelijke herindeling per 01-01-2013
+Begindatum voor 1830"
+GM0458;GMPV27;RegioS;351;Schermer;"Opgeheven per 01-01-2015
+Ontstaan per 01-08-1970"
+GM0279;GMPV25;RegioS;352;Scherpenzeel;Begindatum voor 1830
+GM0606;GMPV28;RegioS;353;Schiedam;Begindatum voor 1830
+GM0088;GMPV21;RegioS;354;Schiermonnikoog;Begindatum voor 1830
+GM0844;GMPV30;RegioS;355;Schijndel;"Opgeheven per 01-01-2017
+Begindatum voor 1830"
+GM0962;GMPV31;RegioS;356;Schinnen;"Opgeheven per 01-01-2019
+Begindatum 02-01-1839"
+GM0608;GMPV28;RegioS;357;Schoonhoven;"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+GM1676;GMPV29;RegioS;358;Schouwen-Duiveland;Ontstaan per 01-01-1997
+GM0965;GMPV31;RegioS;359;Simpelveld;Begindatum 02-01-1839
+GM1702;GMPV30;RegioS;360;Sint Anthonis;"Opgeheven per 01-01-2022
+Naamswijziging per 04-07-1995"
+GM0845;GMPV30;RegioS;361;Sint-Michielsgestel;"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+GM0846;GMPV30;RegioS;362;Sint-Oedenrode;"Opgeheven per 01-01-2017
+Begindatum voor 1830"
+GM1883;GMPV31;RegioS;363;Sittard-Geleen;Ontstaan per 01-01-2001
+GM0051;GMPV21;RegioS;364;Skarsterlân;"Opgeheven per 01-01-2014
+Naamswijziging per 01-03-1985"
+GM0610;GMPV28;RegioS;365;Sliedrecht;Begindatum voor 1830
+GM0040;GMPV20;RegioS;366;Slochteren;"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+GM1714;GMPV29;RegioS;367;Sluis;Ontstaan per 01-01-2003
+GM0090;GMPV21;RegioS;368;Smallingerland;Begindatum voor 1830
+GM0091;GMPV21;RegioS;369;Sneek;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM0342;GMPV26;RegioS;370;Soest;Begindatum voor 1830
+GM0847;GMPV30;RegioS;371;Someren;Begindatum voor 1830
+GM0848;GMPV30;RegioS;372;Son en Breugel;Begindatum voor 1830
+GM0612;GMPV28;RegioS;373;Spijkenisse;"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+GM0037;GMPV20;RegioS;374;Stadskanaal;Ontstaan per 01-01-1969
+GM0180;GMPV23;RegioS;375;Staphorst;Begindatum voor 1830
+GM0532;GMPV27;RegioS;376;Stede Broec;Ontstaan per 01-01-1979
+GM0851;GMPV30;RegioS;377;Steenbergen;"Gemeentelijke herindeling per 01-01-1997
+Naamswijziging per 25-06-1962"
+GM1708;GMPV23;RegioS;378;Steenwijkerland;Naamswijziging per 01-01-2003
+GM0971;GMPV31;RegioS;379;Stein (L.);Begindatum 02-01-1839
+GM1904;GMPV26;RegioS;380;Stichtse Vecht;Ontstaan per 01-01-2011
+GM0617;GMPV28;RegioS;381;Strijen;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM1900;GMPV21;RegioS;382;Súdwest-Fryslân;"Gemeentelijke herindeling per 01-01-2018
+Ontstaan per 01-01-2011"
+GM0715;GMPV29;RegioS;383;Terneuzen;"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+GM0093;GMPV21;RegioS;384;Terschelling;"Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+GM0448;GMPV27;RegioS;385;Texel;Begindatum voor 1830
+GM1525;GMPV28;RegioS;386;Teylingen;Ontstaan per 01-01-2006
+GM0716;GMPV29;RegioS;387;Tholen;"Gemeentelijke herindeling per 01-01-1995
+Begindatum voor 1830"
+GM0281;GMPV25;RegioS;388;Tiel;Begindatum voor 1830
+GM0855;GMPV30;RegioS;389;Tilburg;"Gemeentelijke herindeling per 01-01-2021
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0183;GMPV23;RegioS;390;Tubbergen;Begindatum voor 1830
+GM1700;GMPV23;RegioS;391;Twenterand;Naamswijziging per 01-06-2002
+GM1730;GMPV22;RegioS;392;Tynaarlo;Naamswijziging per 01-12-1999
+GM0737;GMPV21;RegioS;393;Tytsjerksteradiel;Naamswijziging per 01-01-1989
+GM0282;GMPV25;RegioS;394;Ubbergen;"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+GM0856;GMPV30;RegioS;395;Uden;"Opgeheven per 01-01-2022
+Begindatum voor 1830"
+GM0450;GMPV27;RegioS;396;Uitgeest;Begindatum voor 1830
+GM0451;GMPV27;RegioS;397;Uithoorn;Begindatum voor 1830
+GM0184;GMPV24;RegioS;398;Urk;"Provinciale wijziging per 01-01-1986
+Begindatum voor 1830"
+GM0344;GMPV26;RegioS;399;Utrecht (gemeente);"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+GM1581;GMPV26;RegioS;400;Utrechtse Heuvelrug;Ontstaan per 01-01-2006
+GM0981;GMPV31;RegioS;401;Vaals;Begindatum 02-01-1839
+GM0994;GMPV31;RegioS;402;Valkenburg aan de Geul;Ontstaan per 01-01-1982
+GM0858;GMPV30;RegioS;403;Valkenswaard;Begindatum voor 1830
+GM0047;GMPV20;RegioS;404;Veendam;Begindatum voor 1830
+GM0345;GMPV26;RegioS;405;Veenendaal;Begindatum voor 1830
+GM0717;GMPV29;RegioS;406;Veere;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0860;GMPV30;RegioS;407;Veghel;"Opgeheven per 01-01-2017
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+GM0861;GMPV30;RegioS;408;Veldhoven;Naamswijziging per 01-05-1921
+GM0453;GMPV27;RegioS;409;Velsen;Begindatum voor 1830
+GM0983;GMPV31;RegioS;410;Venlo;"Gemeentelijke herindeling per 01-01-2010
+Gemeentelijke herindeling per 01-01-2001
+Begindatum 02-01-1839"
+GM0984;GMPV31;RegioS;411;Venray;Begindatum 02-01-1839
+GM0620;GMPV26;RegioS;412;Vianen;"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2002
+Begindatum voor 1830"
+GM1961;GMPV26;RegioS;413;Vijfheerenlanden;"Provinciale wijziging per 01-01-2019
+Ontstaan per 01-01-2019"
+GM0622;GMPV28;RegioS;414;Vlaardingen;Begindatum voor 1830
+GM0048;GMPV20;RegioS;415;Vlagtwedde;"Opgeheven per 01-01-2018
+Begindatum voor 1830"
+GM0096;GMPV21;RegioS;416;Vlieland;"Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+GM0718;GMPV29;RegioS;417;Vlissingen;Begindatum voor 1830
+GM0623;GMPV28;RegioS;418;Vlist;"Opgeheven per 01-01-2015
+Begindatum voor 1830"
+GM0986;GMPV31;RegioS;419;Voerendaal;Begindatum 02-01-1839
+GM0626;GMPV28;RegioS;420;Voorschoten;Begindatum voor 1830
+GM0285;GMPV25;RegioS;421;Voorst;Begindatum voor 1830
+GM0865;GMPV30;RegioS;422;Vught;"Gemeentelijke herindeling per 01-01-2021
+Begindatum voor 1830"
+GM1949;GMPV21;RegioS;423;Waadhoeke;Ontstaan per 01-01-2018
+GM0866;GMPV30;RegioS;424;Waalre;Begindatum voor 1830
+GM0867;GMPV30;RegioS;425;Waalwijk;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0627;GMPV28;RegioS;426;Waddinxveen;Begindatum 01-07-1870
+GM0289;GMPV25;RegioS;427;Wageningen;Begindatum voor 1830
+GM0629;GMPV28;RegioS;428;Wassenaar;Begindatum voor 1830
+GM0852;GMPV27;RegioS;429;Waterland;Ontstaan per 01-01-1991
+GM0988;GMPV31;RegioS;430;Weert;"Gemeentelijke herindeling per 01-01-1998
+Begindatum 02-01-1839"
+GM0457;GMPV27;RegioS;431;Weesp;Begindatum voor 1830
+GM0870;GMPV30;RegioS;432;Werkendam;"Opgeheven per 01-01-2019
+Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0459;GMPV27;RegioS;433;Wervershoof;"Opgeheven per 01-01-2011
+Begindatum voor 1830"
+GM1960;GMPV25;RegioS;434;West Betuwe;Ontstaan per 01-01-2019
+GM0668;GMPV25;RegioS;435;West Maas en Waal;Naamswijziging per 01-07-1985
+GM1969;GMPV20;RegioS;436;Westerkwartier;Ontstaan per 01-01-2019
+GM1701;GMPV22;RegioS;437;Westerveld;Ontstaan per 01-01-1998
+GM0293;GMPV25;RegioS;438;Westervoort;Begindatum voor 1830
+GM1950;GMPV20;RegioS;439;Westerwolde;Ontstaan per 01-01-2018
+GM1783;GMPV28;RegioS;440;Westland;Ontstaan per 01-01-2004
+GM0098;GMPV21;RegioS;441;Weststellingwerf;Begindatum voor 1830
+GM0614;GMPV28;RegioS;442;Westvoorne;Ontstaan per 01-01-1980
+GM0189;GMPV23;RegioS;443;Wierden;Begindatum voor 1830
+GM0462;GMPV27;RegioS;444;Wieringen;"Opgeheven per 01-01-2012
+Begindatum voor 1830"
+GM0463;GMPV27;RegioS;445;Wieringermeer;"Opgeheven per 01-01-2012
+Ontstaan per 01-01-1938"
+GM0296;GMPV25;RegioS;446;Wijchen;Begindatum voor 1830
+GM1696;GMPV27;RegioS;447;Wijdemeren;Ontstaan per 01-01-2002
+GM0352;GMPV26;RegioS;448;Wijk bij Duurstede;"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+GM0053;GMPV20;RegioS;449;Winsum;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0294;GMPV25;RegioS;450;Winterswijk;Begindatum voor 1830
+GM0873;GMPV30;RegioS;451;Woensdrecht;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0632;GMPV26;RegioS;452;Woerden;"Gemeentelijke herindeling per 01-01-2001
+Provinciale wijziging per 01-01-1989
+Begindatum voor 1830"
+GM1690;GMPV22;RegioS;453;De Wolden;Ontstaan per 01-01-1998
+GM0880;GMPV27;RegioS;454;Wormerland;Ontstaan per 01-01-1991
+GM0351;GMPV26;RegioS;455;Woudenberg;Begindatum voor 1830
+GM0874;GMPV30;RegioS;456;Woudrichem;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM0710;GMPV21;RegioS;457;Wûnseradiel;"Opgeheven per 01-01-2011
+Naamswijziging per 01-01-1987"
+GM0683;GMPV21;RegioS;458;Wymbritseradiel;"Opgeheven per 01-01-2011
+Naamswijziging per 01-01-1986"
+GM0479;GMPV27;RegioS;459;Zaanstad;Ontstaan per 01-01-1974
+GM0297;GMPV25;RegioS;460;Zaltbommel;"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+GM0473;GMPV27;RegioS;461;Zandvoort;Begindatum voor 1830
+GM0707;GMPV28;RegioS;462;Zederik;"Opgeheven per 01-01-2019
+Provinciale wijziging per 01-01-2019
+Ontstaan per 01-01-1986"
+GM0478;GMPV27;RegioS;463;Zeevang;"Opgeheven per 01-01-2016
+Ontstaan per 01-08-1970"
+GM0050;GMPV24;RegioS;464;Zeewolde;Ontstaan per 01-01-1984
+GM0355;GMPV26;RegioS;465;Zeist;Begindatum voor 1830
+GM0299;GMPV25;RegioS;466;Zevenaar;"Gemeentelijke herindeling per 01-01-2018
+Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+GM0476;GMPV27;RegioS;467;Zijpe;"Opgeheven per 01-01-2013
+Begindatum voor 1830"
+GM0637;GMPV28;RegioS;468;Zoetermeer;Begindatum voor 1830
+GM0638;GMPV28;RegioS;469;Zoeterwoude;Begindatum voor 1830
+GM0056;GMPV20;RegioS;470;Zuidhorn;"Opgeheven per 01-01-2019
+Begindatum voor 1830"
+GM1892;GMPV28;RegioS;471;Zuidplas;Ontstaan per 01-01-2010
+GM0879;GMPV30;RegioS;472;Zundert;"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+GM0301;GMPV25;RegioS;473;Zutphen;"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+GM1896;GMPV23;RegioS;474;Zwartewaterland;Ontstaan per 01-01-2001
+GM0642;GMPV28;RegioS;475;Zwijndrecht;"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+GM0193;GMPV23;RegioS;476;Zwolle;Begindatum voor 1830
+GM1979;GMPV20;RegioS;477;Eemsdelta;
+ES01;OVERIG;RegioS;478;Groningen (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES02;OVERIG;RegioS;479;Friesland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES03;OVERIG;RegioS;480;Drenthe (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES04;OVERIG;RegioS;481;Twente (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES05;OVERIG;RegioS;482;West-Overijssel (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES06;OVERIG;RegioS;483;Flevoland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES07;OVERIG;RegioS;484;Achterhoek (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES08;OVERIG;RegioS;485;Arnhem/Nijmegen (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES09;OVERIG;RegioS;486;Foodvalley (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES10;OVERIG;RegioS;487;Noord-Veluwe (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES11;OVERIG;RegioS;488;Fruitdelta Rivierenland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES12;OVERIG;RegioS;489;Cleantech (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES13;OVERIG;RegioS;490;Amersfoort (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES14;OVERIG;RegioS;491;U16 (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES15;OVERIG;RegioS;492;Noord-Holland Noord (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES16;OVERIG;RegioS;493;Noord-Holland Zuid (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES17;OVERIG;RegioS;494;Alblasserwaard (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES18;OVERIG;RegioS;495;Drechtsteden (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES19;OVERIG;RegioS;496;Goeree-Overflakkee (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES20;OVERIG;RegioS;497;Hoeksche Waard (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES21;OVERIG;RegioS;498;Holland Rijnland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES22;OVERIG;RegioS;499;Midden-Holland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES23;OVERIG;RegioS;500;Rotterdam/Den Haag (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES24;OVERIG;RegioS;501;Zeeland (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES25;OVERIG;RegioS;502;Hart van Brabant (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES26;OVERIG;RegioS;503;Metropoolregio Eindhoven (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES27;OVERIG;RegioS;504;Noordoost-Brabant (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES28;OVERIG;RegioS;505;West-Brabant (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES29;OVERIG;RegioS;506;Noord- en Midden-Limburg (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ES30;OVERIG;RegioS;507;Zuid-Limburg (ES);"ES = Regionale Energiestrategie regio
+
+In het kader van het klimaatakkoord is Nederland ingedeeld in 30 regio's. In die regio's werken de lokale overheden - gemeenten, provincies en waterschappen - aan het opstellen van Regionale Energiestrategieën (RES). Samen met bedrijfsleven, maatschappelijke organisaties, netbeheerders en inwoners brengen ze mogelijkheden voor lokale energiebesparing (o.a. isolatie van woningen en andere gebouwen) en duurzame opwekking van energie in kaart en de gevolgen daarvan voor het energienetwerk."
+ET0101;OVERIG;RegioS;508;Groningen (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0201;OVERIG;RegioS;509;Friesland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0301;OVERIG;RegioS;510;Drenthe (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0401;OVERIG;RegioS;511;Twente (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0501;OVERIG;RegioS;512;West-Overijssel (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0601;OVERIG;RegioS;513;Flevoland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0701;OVERIG;RegioS;514;Achterhoek (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0801;OVERIG;RegioS;515;Arnhem/Nijmegen (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0901;OVERIG;RegioS;516;Foodvalley Gelderland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET0902;OVERIG;RegioS;517;Foodvalley Utrecht (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1001;OVERIG;RegioS;518;Noord-Veluwe (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1101;OVERIG;RegioS;519;Fruitdelta Rivierenland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1201;OVERIG;RegioS;520;Cleantech (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1301;OVERIG;RegioS;521;Amersfoort (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1401;OVERIG;RegioS;522;U16 (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1501;OVERIG;RegioS;523;Kop van Noord-Holland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1502;OVERIG;RegioS;524;Regio Alkmaar (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1503;OVERIG;RegioS;525;West-Friesland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1601;OVERIG;RegioS;526;Amsterdam (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1602;OVERIG;RegioS;527;IJmond-Zuid-Kennemerland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1603;OVERIG;RegioS;528;Zaanstreek-Waterland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1604;OVERIG;RegioS;529;Gooi en Vechtstreek (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1605;OVERIG;RegioS;530;Haarlemmermeer (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1606;OVERIG;RegioS;531;Amstelland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1701;OVERIG;RegioS;532;Alblasserwaard (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1801;OVERIG;RegioS;533;Drechtsteden (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET1901;OVERIG;RegioS;534;Goeree-Overflakkee (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2001;OVERIG;RegioS;535;Hoeksche Waard (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2101;OVERIG;RegioS;536;Holland Rijnland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2201;OVERIG;RegioS;537;Midden-Holland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2301;OVERIG;RegioS;538;Rotterdam/Den Haag (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2401;OVERIG;RegioS;539;Zeeland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2501;OVERIG;RegioS;540;Hart van Brabant (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2601;OVERIG;RegioS;541;Metropoolregio Eindhoven (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2701;OVERIG;RegioS;542;Noordoost-Brabant (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2801;OVERIG;RegioS;543;West-Brabant (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET2901;OVERIG;RegioS;544;Noord- en Midden-Limburg (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET3001;OVERIG;RegioS;545;Parkstad (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET3002;OVERIG;RegioS;546;Maastricht Heuvelland (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."
+ET3003;OVERIG;RegioS;547;Westelijke Mijnstreek (ET);"ET = SubRES-regio
+
+Een onderverdeling van een aantal van de 30 RES-regio's; de volgende RES-regio's zijn verder opgesplitst: Foodvalley (ES09), Noord-Holland Noord (ES15), Noord-Holland Zuid (ES16) en Zuid-Limburg (ES30)."

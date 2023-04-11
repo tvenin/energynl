@@ -1,0 +1,9 @@
+Identifier;DimensionGroupId;DimensionId;Index;Title;Description
+T001100;;Woningkenmerken;1;Totaal woningen;
+ZW25810;;Woningkenmerken;2;Appartement;Een geheel van bij elkaar horende vertrekken als afzonderlijke woongelegenheid binnen een grotere woning waarbij de opdeling van het gebouw heeft plaatsgevonden volgens het appartementsrecht. Een bovenwoning of flat die geen appartement is wordt niet meegenomen bij het berekenen van de verbruikscijfers.
+ZW25805;;Woningkenmerken;3;Tussenwoning;Woning die met meerdere woningen is verbonden en die daarmee eenzelfde doorlopende dakconstructie heeft.
+ZW25806;;Woningkenmerken;4;Hoekwoning;Laatste van een serie rijtjeswoningen die aan één zijde is verbonden met een ander pand met adres.
+ZW10300;;Woningkenmerken;5;2-onder-1-kapwoning;Woning die met een andere woning (niet zijnde een geschakelde woning) is verbonden en die daarmee eenzelfde doorlopende dakconstructie heeft.
+ZW10320;;Woningkenmerken;6;Vrijstaande woning;Woning waarvan het pand met verblijfsobject niet direct met een ander pand met verblijfsobject is verbonden.
+1014800;;Woningkenmerken;7;Eigen woning;Woningen die eigendom zijn of worden van de (toekomstige) bewoners.
+1014850;;Woningkenmerken;8;Huurwoning;Woningen in eigendom van 'toegelaten instellingen' (woningcorporaties), van institutionele beleggers of van particulieren die de woning verhuren aan de bewoner.
